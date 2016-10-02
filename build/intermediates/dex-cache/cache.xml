@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/al8r/AndroidStudioProjects/Visual-Vocab1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="49236371382b1f06ce558d54ac98b27af1ddc278">
+        <dex dex="/Users/al8r/AndroidStudioProjects/Visual-Vocab1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_47872c550ef08e9bb0b1c16e88c61b56ebaf9bbd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/al8r/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/al8r/AndroidStudioProjects/Visual-Vocab1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_90a100ad454511d53e0622fa8210220088a0b292/classes.dex" />
+    </item>
+    <item
+        jar="/Users/al8r/AndroidStudioProjects/Visual-Vocab1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="4382482572771d85e87e14ecffc30d54b458c2e7">
+        <dex dex="/Users/al8r/AndroidStudioProjects/Visual-Vocab1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_93755ce878758276ac7a56808f199e63903bab2a/classes.dex" />
+    </item>
+
+</items>
