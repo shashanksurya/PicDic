@@ -2,25 +2,31 @@
 <items version="2" >
 
     <item
-        jar="/Users/al8r/AndroidStudioProjects/Visual-Vocab1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="24.0.2"
-        sha1="49236371382b1f06ce558d54ac98b27af1ddc278">
-        <dex dex="/Users/al8r/AndroidStudioProjects/Visual-Vocab1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_47872c550ef08e9bb0b1c16e88c61b56ebaf9bbd/classes.dex" />
-    </item>
-    <item
+        is-multidex="true"
         jar="/Users/al8r/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
         jumboMode="true"
+        optimize="true"
         revision="24.0.2"
         sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="/Users/al8r/AndroidStudioProjects/Visual-Vocab1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_90a100ad454511d53e0622fa8210220088a0b292/classes.dex" />
+        <dex dex="/Users/al8r/StudioProjects/PicDic/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_90a100ad454511d53e0622fa8210220088a0b292/classes.dex" />
     </item>
     <item
-        jar="/Users/al8r/AndroidStudioProjects/Visual-Vocab1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        is-multidex="true"
+        jar="/Users/al8r/StudioProjects/PicDic/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
+        optimize="true"
         revision="24.0.2"
-        sha1="4382482572771d85e87e14ecffc30d54b458c2e7">
-        <dex dex="/Users/al8r/AndroidStudioProjects/Visual-Vocab1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_93755ce878758276ac7a56808f199e63903bab2a/classes.dex" />
+        sha1="dd07bd93d81e6fbe7e3b9b6edfc708d1a7ef44a1">
+        <dex dex="/Users/al8r/StudioProjects/PicDic/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a5bec3f78fbad5392698160815ef866f8aa38446/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/al8r/StudioProjects/PicDic/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="04eb64550eea11e6beaf9de8ea7ac481d47369b9">
+        <dex dex="/Users/al8r/StudioProjects/PicDic/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6c4260df47f0c881f65d450a78802321c2765346/classes.dex" />
     </item>
 
 </items>
